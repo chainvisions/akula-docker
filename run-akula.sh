@@ -1,0 +1,1 @@
+akula --datadir=/data --prune
